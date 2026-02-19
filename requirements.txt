@@ -20,3 +20,6 @@ aiofiles
 psutil
 aiohttp
 aiohttp-socks
+telethon
+cryptg
+av
