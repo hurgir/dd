@@ -23,3 +23,5 @@ aiohttp-socks
 telethon
 cryptg
 av
+beautifulsoup4
+gunicorn
