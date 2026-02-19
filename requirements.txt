@@ -18,10 +18,7 @@ cachetools
 tqdm
 aiofiles
 psutil
-aiohttp
-aiohttp-socks
+anyio
 telethon
-cryptg
 av
-beautifulsoup4
-gunicorn
+aiohttp
